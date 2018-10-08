@@ -1,0 +1,4 @@
+target 'DemoWeex' do
+    platform :ios, '8.0'
+    pod 'WeexSDK'   ## 建议使用WeexSDK新版本
+end
